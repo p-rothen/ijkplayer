@@ -46,7 +46,7 @@ inline static BOOL isIOS8OrLater()
 
 inline static BOOL isIOS7OrLater()
 {
-    return SYSTEM_VERSION_GREATER_THAN_OR_EQUAL_TO(@"7.0");
+    return SYSTEM_VERSION_GREATER_THAN_OR_EQUAL_TO(@"8.1");
 }
 
 inline static BOOL isIOS6OrLater()

@@ -5,7 +5,7 @@
       "idiom" : "iphone",
       "filename" : "iphone_ios7_640_960.png",
       "extent" : "full-screen",
-      "minimum-system-version" : "7.0",
+      "minimum-system-version" : "8.1",
       "scale" : "2x"
     },
     {
@@ -13,7 +13,7 @@
       "idiom" : "iphone",
       "subtype" : "retina4",
       "filename" : "iphone_ios7_640_1136.png",
-      "minimum-system-version" : "7.0",
+      "minimum-system-version" : "8.1",
       "orientation" : "portrait",
       "scale" : "2x"
     },

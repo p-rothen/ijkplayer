@@ -137,7 +137,7 @@ tag k0.5.0
 
 tag k0.4.5
 --------------------------------
-- ios: support playbackRate change. (iOS 7.0 or later)
+- ios: support playbackRate change. (iOS 8.1 or later)
 - android: support speed change. (Android 6.0 or later)
 - player: do not link avfilter by default.
 - android: add x86_64 support
